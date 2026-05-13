@@ -1,0 +1,322 @@
+/agent
+
+Act as:
+- ANSYS industrial simulation engineer
+- Anna University project guide
+- FEM/CFD researcher
+- production design engineer
+- IEEE paper mentor
+
+Create a COMPLETE final year engineering project workflow for Anna University students.
+
+PROJECT REQUIREMENTS:
+- industrial-level project
+- simulation-based
+- manufacturable
+- research-oriented
+- low-cost prototype possible
+- suitable for final viva and project expo
+- suitable for IEEE publication
+- suitable for big thesis PDF (100–150 pages)
+
+--------------------------------------------------
+STEP 1 — PROJECT IDEAS
+--------------------------------------------------
+
+Generate:
+- top 50 ANSYS project ideas
+
+For each idea include:
+- department
+- difficulty
+- software modules used
+- industry relevance
+- manufacturing feasibility
+- cost estimation
+- publication potential
+
+Departments:
+- Mechanical
+- Civil
+- EEE
+- ECE
+- Automobile
+- Mechatronics
+- Aerospace
+
+--------------------------------------------------
+STEP 2 — SELECT BEST PROJECT
+--------------------------------------------------
+
+Select:
+- top 5 most practical projects
+- top 5 most innovative projects
+- top 5 publication-oriented projects
+- top 5 low-cost projects
+
+Then choose ONE final project and fully develop it.
+
+--------------------------------------------------
+STEP 3 — LITERATURE SURVEY
+--------------------------------------------------
+
+Perform complete literature survey.
+
+Need:
+- IEEE papers
+- Springer papers
+- ScienceDirect papers
+- arXiv papers
+- GitHub repositories
+
+Create table with:
+- paper title
+- year
+- authors
+- method used
+- ANSYS module
+- equations
+- limitations
+- future scope
+- DOI/link
+
+Focus:
+2020–2026 latest papers.
+
+--------------------------------------------------
+STEP 4 — ENGINEERING THEORY
+--------------------------------------------------
+
+Generate complete engineering theory.
+
+Include:
+- governing equations
+- FEM formulation
+- CFD equations
+- weak form
+- stiffness matrix formulation
+- mesh equations
+- material constitutive equations
+- thermal equations
+- modal equations
+- fatigue equations
+
+Need canonical mathematical form.
+
+Include:
+- derivations
+- assumptions
+- units
+- engineering meaning
+
+--------------------------------------------------
+STEP 5 — ANSYS WORKFLOW
+--------------------------------------------------
+
+Generate complete ANSYS workflow.
+
+Include:
+1. Geometry creation
+2. SpaceClaim workflow
+3. CAD cleanup
+4. Material assignment
+5. Contact setup
+6. Meshing strategy
+7. Mesh independence study
+8. Solver setup
+9. Boundary conditions
+10. Load conditions
+11. Convergence criteria
+12. Result extraction
+13. Validation methods
+
+Modules:
+- Static Structural
+- Fluent
+- Thermal
+- Modal
+- Explicit Dynamics
+- Harmonic
+- Topology Optimization
+
+--------------------------------------------------
+STEP 6 — MESHING DETAILS
+--------------------------------------------------
+
+Explain:
+- tetra mesh
+- hex mesh
+- inflation layers
+- skewness
+- orthogonal quality
+- aspect ratio
+- adaptive meshing
+- local refinement
+
+Need:
+- best practices
+- industrial standards
+- convergence methods
+
+--------------------------------------------------
+STEP 7 — RESULTS & INTERPRETATION
+--------------------------------------------------
+
+Generate:
+- stress analysis interpretation
+- strain interpretation
+- thermal contour interpretation
+- pressure contour analysis
+- velocity streamline interpretation
+- fatigue life analysis
+- safety factor interpretation
+- modal frequency interpretation
+
+Explain:
+- what each contour means
+- failure prediction
+- optimization direction
+
+--------------------------------------------------
+STEP 8 — OPTIMIZATION
+--------------------------------------------------
+
+Perform:
+- topology optimization
+- weight reduction
+- thermal optimization
+- flow optimization
+- material optimization
+
+Need:
+- objective functions
+- constraints
+- optimization workflow
+- sensitivity analysis
+
+--------------------------------------------------
+STEP 9 — MANUFACTURING & PRODUCTION
+--------------------------------------------------
+
+Convert simulation into manufacturable product.
+
+Need:
+- material procurement
+- BOM
+- fabrication process
+- CNC process
+- welding process
+- casting process
+- assembly sequence
+- tolerance analysis
+- production cost
+- industrial feasibility
+
+--------------------------------------------------
+STEP 10 — VALIDATION
+--------------------------------------------------
+
+Generate:
+- hand calculations
+- theoretical comparison
+- experimental validation strategy
+- error analysis
+- uncertainty analysis
+
+--------------------------------------------------
+STEP 11 — THESIS GENERATION
+--------------------------------------------------
+
+Generate complete thesis structure.
+
+Need:
+- abstract
+- acknowledgement
+- introduction
+- literature survey
+- methodology
+- FEM formulation
+- simulation setup
+- results
+- discussion
+- optimization
+- manufacturing feasibility
+- cost analysis
+- conclusion
+- future scope
+- references
+- appendices
+
+Target:
+100–150 pages.
+
+--------------------------------------------------
+STEP 12 — IEEE PAPER
+--------------------------------------------------
+
+Convert project into IEEE journal format.
+
+Need:
+- abstract
+- keywords
+- methodology
+- equations
+- figures needed
+- result tables
+- references
+- novelty points
+
+--------------------------------------------------
+STEP 13 — PPT & VIVA
+--------------------------------------------------
+
+Generate:
+- 30-slide PPT structure
+- viva questions
+- difficult technical questions
+- HR/project questions
+- faculty review questions
+
+--------------------------------------------------
+STEP 14 — SOFTWARE & REPOSITORIES
+--------------------------------------------------
+
+Find:
+- GitHub repositories
+- ANSYS tutorials
+- FEA datasets
+- CAD resources
+- mesh resources
+- validation datasets
+
+Software:
+- ANSYS
+- SolidWorks
+- CATIA
+- MATLAB
+- Python
+- FEniCS
+- OpenFOAM
+
+--------------------------------------------------
+STEP 15 — FINAL OUTPUT
+--------------------------------------------------
+
+Generate:
+- complete project roadmap
+- semester-wise plan
+- weekly workflow
+- thesis writing workflow
+- publication workflow
+- manufacturing workflow
+- budget estimation
+- project timeline
+
+Output format:
+- tables
+- equations
+- engineering diagrams needed
+- chapter-wise thesis structure
+- implementation roadmap
+- publication-ready structure
+- production-ready structure
